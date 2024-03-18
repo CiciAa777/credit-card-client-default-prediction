@@ -1,1 +1,1 @@
-# decentralized-app
+# credit-card-client-default-prediction
